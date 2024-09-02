@@ -1,0 +1,165 @@
+[
+    {
+        "rank": "ملازم",
+        "grades": [
+            {"grade": 1, "basicSalary": 7590},
+            {"grade": 2, "basicSalary": 7970},
+            {"grade": 3, "basicSalary": 8350},
+            {"grade": 4, "basicSalary": 8750},
+            {"grade": 5, "basicSalary": 9110},
+            {"grade": 6, "basicSalary": 9490},
+            {"grade": 7, "basicSalary": 9870},
+            {"grade": 8, "basicSalary": 10250},
+            {"grade": 9, "basicSalary": 10630},
+            {"grade": 10, "basicSalary": 11010},
+            {"grade": 11, "basicSalary": 11390},
+            {"grade": 12, "basicSalary": 11770},
+            {"grade": 13, "basicSalary": 12150},
+            {"grade": 14, "basicSalary": 12530},
+            {"grade": 15, "basicSalary": 12910}
+        ]
+    },
+    {
+        "rank": "ملازم اول",
+        "grades": [
+            {"grade": 1, "basicSalary": 8835},
+            {"grade": 2, "basicSalary": 9275},
+            {"grade": 3, "basicSalary": 9715},
+            {"grade": 4, "basicSalary": 10155},
+            {"grade": 5, "basicSalary": 10595},
+            {"grade": 6, "basicSalary": 11035},
+            {"grade": 7, "basicSalary": 11475},
+            {"grade": 8, "basicSalary": 11915},
+            {"grade": 9, "basicSalary": 12355},
+            {"grade": 10, "basicSalary": 12795},
+            {"grade": 11, "basicSalary": 13235},
+            {"grade": 12, "basicSalary": 13675},
+            {"grade": 13, "basicSalary": 14115},
+            {"grade": 14, "basicSalary": 14555},
+            {"grade": 15, "basicSalary": 14995}
+        ]
+    },
+    {
+        "rank": "نقيب",
+        "grades": [
+            {"grade": 1, "basicSalary": 10600},
+            {"grade": 2, "basicSalary": 11095},
+            {"grade": 3, "basicSalary": 11590},
+            {"grade": 4, "basicSalary": 12085},
+            {"grade": 5, "basicSalary": 12580},
+            {"grade": 6, "basicSalary": 13075},
+            {"grade": 7, "basicSalary": 13570},
+            {"grade": 8, "basicSalary": 13835},
+            {"grade": 9, "basicSalary": 14100},
+            {"grade": 10, "basicSalary": 14365},
+            {"grade": 11, "basicSalary": 14630},
+            {"grade": 12, "basicSalary": 14895},
+            {"grade": 13, "basicSalary": 15160},
+            {"grade": 14, "basicSalary": 15425},
+            {"grade": 15, "basicSalary": 15690}
+        ]
+    },
+    {
+        "rank": "رائد",
+        "grades": [
+            {"grade": 1, "basicSalary": 13515},
+            {"grade": 2, "basicSalary": 13780},
+            {"grade": 3, "basicSalary": 14045},
+            {"grade": 4, "basicSalary": 14310},
+            {"grade": 5, "basicSalary": 14575},
+            {"grade": 6, "basicSalary": 14840},
+            {"grade": 7, "basicSalary": 15105},
+            {"grade": 8, "basicSalary": 15370},
+            {"grade": 9, "basicSalary": 15635},
+            {"grade": 10, "basicSalary": 15900},
+            {"grade": 11, "basicSalary": 16165},
+            {"grade": 12, "basicSalary": 16430},
+            {"grade": 13, "basicSalary": 16695},
+            {"grade": 14, "basicSalary": 16960},
+            {"grade": 15, "basicSalary": 17235}
+        ]
+    },
+    {
+        "rank": "مقدم",
+        "grades": [
+            {"grade": 1, "basicSalary": 14650},
+            {"grade": 2, "basicSalary": 15120},
+            {"grade": 3, "basicSalary": 15590},
+            {"grade": 4, "basicSalary": 16060},
+            {"grade": 5, "basicSalary": 16530},
+            {"grade": 6, "basicSalary": 17000},
+            {"grade": 7, "basicSalary": 17470},
+            {"grade": 8, "basicSalary": 17940},
+            {"grade": 9, "basicSalary": 18410},
+            {"grade": 10, "basicSalary": 18880},
+            {"grade": 11, "basicSalary": 19350},
+            {"grade": 12, "basicSalary": 19820},
+            {"grade": 13, "basicSalary": 20290},
+            {"grade": 14, "basicSalary": 20760},
+            {"grade": 15, "basicSalary": 11111}
+        ]
+    },
+    {
+        "rank": "عقيد",
+        "grades": [
+            {"grade": 1, "basicSalary": 16520},
+            {"grade": 2, "basicSalary": 17110},
+            {"grade": 3, "basicSalary": 17700},
+            {"grade": 4, "basicSalary": 18290},
+            {"grade": 5, "basicSalary": 18880},
+            {"grade": 6, "basicSalary": 19470},
+            {"grade": 7, "basicSalary": 20060},
+            {"grade": 8, "basicSalary": 20650},
+            {"grade": 9, "basicSalary": 21240},
+            {"grade": 10, "basicSalary": 21830},
+            {"grade": 11, "basicSalary": 22420},
+            {"grade": 12, "basicSalary": 23010},
+            {"grade": 13, "basicSalary": 23600},
+            {"grade": 14, "basicSalary": 11111},
+            {"grade": 15, "basicSalary": 11111}
+        ]
+    },
+    {
+        "rank": "عميد",
+        "grades": [
+            {"grade": 1, "basicSalary": 18805},
+            {"grade": 2, "basicSalary": 19455},
+            {"grade": 3, "basicSalary": 20105},
+            {"grade": 4, "basicSalary": 20755},
+            {"grade": 5, "basicSalary": 21405},
+            {"grade": 6, "basicSalary": 22055},
+            {"grade": 7, "basicSalary": 22705},
+            {"grade": 8, "basicSalary": 23355},
+            {"grade": 9, "basicSalary": 24005},
+            {"grade": 10, "basicSalary": 24655},
+            {"grade": 11, "basicSalary": 25305},
+            {"grade": 12, "basicSalary": 25955},
+            {"grade": 13, "basicSalary": 1111},
+            {"grade": 14, "basicSalary": 11111},
+            {"grade": 15, "basicSalary": 1111}
+        ]
+    },
+  
+    {
+        "rank": "لواء",
+        "grades": [
+            {"grade": 1, "basicSalary": 21390},
+            {"grade": 2, "basicSalary": 22125},
+            {"grade": 3, "basicSalary": 22860},
+            {"grade": 4, "basicSalary": 23595},
+            {"grade": 5, "basicSalary": 24330},
+            {"grade": 6, "basicSalary": 25065},
+            {"grade": 7, "basicSalary": 25800},
+            {"grade": 8, "basicSalary": 26535},
+            {"grade": 9, "basicSalary": 27270},
+            {"grade": 10, "basicSalary": 28005},
+            {"grade": 11, "basicSalary": 28740},
+            {"grade": 12, "basicSalary": 11111},
+            {"grade": 13, "basicSalary": 11111},
+            {"grade": 14, "basicSalary": 1111},
+            {"grade": 15, "basicSalary": 11111}
+        ]
+    }
+]
+
+
